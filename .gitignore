@@ -1,5 +1,8 @@
 ### GitIgnore file ###
 
+hosts.StevenBlack
+StevenBlack.lede.txt
+
 # Cache files
 .temp/
 .libs/
