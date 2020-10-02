@@ -2,8 +2,8 @@
 <p align="center">Script to load StevenBlack blocklist host to LEDE Adblock</p>
 
 <p align="center">
-<a href="https://github.com/pablomenino/lede-adblock-hosts/releases"><img src="https://img.shields.io/github/release/pablomenino/lede-adblock-hosts.svg"></a>
-<a href="./LICENSE"><img src="https://img.shields.io/github/license/pablomenino/lede-adblock-hosts.svg"></a>
+<img src="https://img.shields.io/github/release/pablomenino/lede-adblock-hosts.svg">
+<img src="https://img.shields.io/github/license/pablomenino/lede-adblock-hosts.svg">
 </p>
 
 ## Table of contents
